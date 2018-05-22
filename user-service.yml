@@ -11,3 +11,5 @@ spring:
     port: 5672
     username: guest
     password: guest      
+
+mail: gmail.com
